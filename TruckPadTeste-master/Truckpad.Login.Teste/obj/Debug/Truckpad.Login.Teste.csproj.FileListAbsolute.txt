@@ -1,0 +1,12 @@
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\bin\Debug\Truckpad.Login.Teste.exe.config
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\bin\Debug\Truckpad.Login.Teste.exe
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\bin\Debug\Truckpad.Login.Teste.pdb
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\bin\Debug\WebDriver.dll
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\bin\Debug\WebDriver.xml
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\obj\Debug\Truckpad.Login.Teste.csprojResolveAssemblyReference.cache
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\obj\Debug\Truckpad.Login.Teste.csproj.CoreCompileInputs.cache
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\obj\Debug\Truckpad.Login.Teste.csproj.CopyComplete
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\obj\Debug\Truckpad.Login.Teste.exe
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\obj\Debug\Truckpad.Login.Teste.pdb
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\bin\Debug\WebDriver.Support.dll
+c:\users\gabriel.domingos.ext\source\repos\Truckpad.Login.Teste\Truckpad.Login.Teste\bin\Debug\WebDriver.Support.xml
